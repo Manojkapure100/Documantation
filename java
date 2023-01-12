@@ -19,4 +19,4 @@
 
 10.Make sure that you Commit after modifying/testing your code
 
-11. classes name start with capital letter and function name start with small letter.
+11. classes name start with capital letter and function name start with small letter And write constant name in UPPERCASE.
