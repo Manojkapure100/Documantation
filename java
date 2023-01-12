@@ -18,3 +18,5 @@
 9. Use recursion for repeating function(dont use iteration)
 
 10.Make sure that you Commit after modifying/testing your code
+
+11. classes name start with capital letter and function name start with small letter.
